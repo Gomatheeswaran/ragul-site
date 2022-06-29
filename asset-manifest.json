@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ragul-site/static/css/main.74ac9aac.css",
+    "main.js": "/ragul-site/static/js/main.b4859503.js",
+    "static/js/787.01d2ec4b.chunk.js": "/ragul-site/static/js/787.01d2ec4b.chunk.js",
+    "static/media/bimg.jpg": "/ragul-site/static/media/bimg.d9807e6a516e10c63675.jpg",
+    "static/media/logo.svg": "/ragul-site/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ragul-site/index.html",
+    "main.74ac9aac.css.map": "/ragul-site/static/css/main.74ac9aac.css.map",
+    "main.b4859503.js.map": "/ragul-site/static/js/main.b4859503.js.map",
+    "787.01d2ec4b.chunk.js.map": "/ragul-site/static/js/787.01d2ec4b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74ac9aac.css",
+    "static/js/main.b4859503.js"
+  ]
+}
